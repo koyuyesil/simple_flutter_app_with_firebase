@@ -2,7 +2,7 @@
 
 Google Flutter İle Mobil Uygulama Kursu (BTK - Engin Demiroğ)
 
-## Prerequstiques
+## Prerequisites
 Node.js
 Google firebase projesi oluşturun ve web konsol ile seçerek aktif edin.
 
