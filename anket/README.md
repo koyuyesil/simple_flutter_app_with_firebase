@@ -13,16 +13,16 @@ firebase araçları için nodejs konsoldan aşağıdaki komutu girin
 npm install -g firebase-tools
 
 # firebase de oturum açın
-firebase login
+$firebase login
 
 # projelerinizi listeleyin
-firebase projects:list
+$firebase projects:list
 
 # bağımlılıklar için proje klasöründe aşağıdaki komutları çalıştırın.
-flutter pub add firebase_core
+$flutter pub add firebase_core
 
 # Install the CLI if not already done so
-dart pub global activate flutterfire_cli
+$dart pub global activate flutterfire_cli
 
 # Run the `configure` command, select a Firebase project and platforms
-flutterfire configure
+$flutterfire configure
