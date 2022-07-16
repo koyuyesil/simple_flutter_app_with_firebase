@@ -5,12 +5,14 @@ Google Flutter İle Mobil Uygulama Kursu (BTK - Engin Demiroğ)
 ## Prerequstiques
 Node.js
 Google firebase projesi oluşturun ve web konsol ile seçerek aktif edin.
-https://firebase.google.com/docs/cli#windows
+
+https://firebase.google.com/docs/cli#windows/
 https://firebase.flutter.dev/docs/overview/
 
 ## Getting Started
-firebase araçları için nodejs konsoldan aşağıdaki komutu girin 
-npm install -g firebase-tools
+firebase araçları için nodejs konsoldan aşağıdaki komutu girin.
+
+$npm install -g firebase-tools
 
 # firebase de oturum açın
 $firebase login
