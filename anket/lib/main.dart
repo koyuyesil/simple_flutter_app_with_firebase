@@ -43,7 +43,7 @@ class Anket {
   Anket.fromSnapshot(DocumentSnapshot<dynamic> snapshot)
       : this.fromMap(
           snapshot.data(),
-          reference: snapshot!.reference,
+          reference: snapshot.reference,
         );
 }
 
